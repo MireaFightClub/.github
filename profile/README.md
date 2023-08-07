@@ -1,5 +1,6 @@
 ## Добро пожаловать в Бойцовский клуб
 
+Web dev, not mma
 <!--
 
 **Here are some ideas to get you started:**
